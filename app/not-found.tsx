@@ -1,0 +1,1 @@
+import Link from 'next/link';export default function Page(){return <main id="main" className="simple-page section"><span className="eyebrow">404 / A MOMENT OF SILENCE</span><h1 style={{marginTop:25}}>Off the record.</h1><p>We couldn’t find this page.</p><Link href="/shop" className="btn" style={{marginTop:25}}>Back to the collection →</Link></main>}
